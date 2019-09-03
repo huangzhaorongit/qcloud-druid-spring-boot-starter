@@ -1,1 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.qcloud.scf.spring.boot.autoconfig.DruidDataSourceAutoConfigure
